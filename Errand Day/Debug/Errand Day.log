@@ -1,0 +1,14 @@
+﻿Build started 2/12/2026 1:19:54 PM.
+     1>Project "C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Errand Day\Errand Day.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\asus\onedrive\documents\visual studio 2013\projects\errand day\errand day\imain.cpp(72): warning C4554: '|' : check operator precedence for possible error; use parentheses to clarify precedence
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Debug\Errand Day.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Debug\Errand Day.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Debug\Errand Day.lib" /MACHINE:X86 Debug\iMain.obj
+         Errand Day.vcxproj -> C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Debug\Errand Day.exe
+     1>Done Building Project "C:\Users\ASUS\OneDrive\Documents\Visual Studio 2013\Projects\Errand Day\Errand Day\Errand Day.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
