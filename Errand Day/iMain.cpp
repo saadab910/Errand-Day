@@ -69,7 +69,7 @@ void iDraw()
 			else if (mainmenu == 1 && (mx >= 240 && mx <= 346) && (my >= 409 && my <= 434)){
 				StartButtonClickHandler();
 			}
-			else if (startmenu == 1 | optionmenu == 1 && (mx >= 35 && mx <= 71) && (my >= 482 && my <= 518)){
+			else if (startmenu == 1 || optionmenu == 1 && (mx >= 35 && mx <= 71) && (my >= 482 && my <= 518)){
 				BackButtonClickHandler();
 			}
 			else if (creditmenu == 1 && (mx >= 35 && mx <= 71) && (my >= 482 && my <= 518)){
@@ -158,5 +158,6 @@ void iDraw()
 		iStart();
 		return 0;
 	}
+
 
 
