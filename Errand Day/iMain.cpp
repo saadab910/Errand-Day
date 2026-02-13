@@ -95,7 +95,7 @@ void iDraw()
 	void drawMainMenu(){
 		iSetColor(255, 255, 255);
 		iFilledRectangle(0,0,800,533);
-		iShowBMP(0,0,"Images//MainMenu.bmp");
+		iShowBMP(0,0,"Images//Main Menu.bmp");
 	}
 	void drawOptionMenu(){
 		iFilledRectangle(0, 0, 800, 533);
@@ -158,4 +158,5 @@ void iDraw()
 		iStart();
 		return 0;
 	}
+
 
